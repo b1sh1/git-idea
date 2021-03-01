@@ -8,5 +8,8 @@ public class FistClass {
     public void test(){
         int i = 10;
         i += 10;
+
+        System.out.println(i);
+        System.out.println(i);
     }
 }
